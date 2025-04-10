@@ -1,5 +1,5 @@
-const BOT_TOKEN = 'YOUR_BOT_TOKEN';
-const SOURCE_CHANNEL_ID = -1001234567890; // your channel ID (must start with -100 for private/public)
+const BOT_TOKEN = '8022651374:AAHlMASBXO5kzMdAJZhvzp_EceK13XkOB5g';
+const SOURCE_CHANNEL_ID = -1002458733993; // your channel ID (must start with -100 for private/public)
 
 let seenMessageIds = new Set();
 let allMessageIds = [];
